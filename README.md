@@ -3,8 +3,11 @@
   <img src="https://www.linkpicture.com/q/Gorden-のコピー.png">
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ubp-9FGpMO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=Ubp-9FGpMO8&t=3s">
+         <img src="https://www.linkpicture.com/q/globalyoutubeimg.jpg" style="width:100%;">
+      </a>
+</div>
 
 デザインとは、⼈々が物事をより簡単に、快適に使⽤できるようにするために⾏われるプロセ
 スである。そのためにはまず、⼈々が簡単で快適だと感じることが何かと理解するのが必要に
