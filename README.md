@@ -3,6 +3,9 @@
   <img src="https://www.linkpicture.com/q/Gorden-のコピー.png">
 </p>
 
+<iframe width="500" height="300" src="https://www.youtube.com/watch?time_continue=3&v=Ubp-9FGpMO8&feature=emb_logo" frameborder="0" allowfullscreen></iframe>
+
+
 デザインとは、⼈々が物事をより簡単に、快適に使⽤できるようにするために⾏われるプロセ
 スである。そのためにはまず、⼈々が簡単で快適だと感じることが何かと理解するのが必要に
 なる。これを世界規模で達成するには、様々な⽂化を理解し、それらに対する共感を育む必要
@@ -18,7 +21,7 @@
 ィードバックは、他の⽂化の⼈々がアプリケーションをどのように評価するかについての洞察
 として役⽴ち、彼らの⽂化についての理解をさらに深め、その結果、より多くの共感を得るこ
 とができる。
-https://www.youtube.com/watch?time_continue=3&v=Ubp-9FGpMO8&feature=emb_logo
+
 
 Design is done in order to make the experience of using things easy and pleasant for people. To do
 this, we must first understand what exactly makes a device easy and pleasant to use. To achieve this
