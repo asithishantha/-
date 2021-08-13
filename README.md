@@ -15,8 +15,7 @@
 ィードバックは、他の⽂化の⼈々がアプリケーションをどのように評価するかについての洞察
 として役⽴ち、彼らの⽂化についての理解をさらに深め、その結果、より多くの共感を得るこ
 とができる。
-
-http://img.youtube.com/vi/VIDEO-ID/0.jpg
+https://www.youtube.com/watch?time_continue=3&v=Ubp-9FGpMO8&feature=emb_logo
 
 Design is done in order to make the experience of using things easy and pleasant for people. To do
 this, we must first understand what exactly makes a device easy and pleasant to use. To achieve this
