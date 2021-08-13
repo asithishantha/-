@@ -3,7 +3,7 @@
   <img src="https://www.linkpicture.com/q/Gorden-のコピー.png">
 </p>
 
-<iframe width="500" height="300" src="https://www.youtube.com/watch?time_continue=3&v=Ubp-9FGpMO8&feature=emb_logo" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=Ubp-9FGpMO8&t=3s" frameborder="0" allowfullscreen></iframe>
 
 
 デザインとは、⼈々が物事をより簡単に、快適に使⽤できるようにするために⾏われるプロセ
