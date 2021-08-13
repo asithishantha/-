@@ -16,6 +16,8 @@
 として役⽴ち、彼らの⽂化についての理解をさらに深め、その結果、より多くの共感を得るこ
 とができる。
 
+http://img.youtube.com/vi/VIDEO-ID/0.jpg
+
 Design is done in order to make the experience of using things easy and pleasant for people. To do
 this, we must first understand what exactly makes a device easy and pleasant to use. To achieve this
 on a global scale we need an understanding of the different cultures and develop empathy towards
