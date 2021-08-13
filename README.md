@@ -1,4 +1,7 @@
-# GlobalDesign2021
+
+<p align="center">
+  <img src="https://www.linkpicture.com/q/Gorden-のコピー.png">
+</p>
 
 デザインとは、⼈々が物事をより簡単に、快適に使⽤できるようにするために⾏われるプロセ
 スである。そのためにはまず、⼈々が簡単で快適だと感じることが何かと理解するのが必要に
