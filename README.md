@@ -1,4 +1,14 @@
-# GlobalDesign2021
+
+<p align="center">
+  <img src="https://www.linkpicture.com/q/Gorden-のコピー.png">
+</p>
+
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=Ubp-9FGpMO8&t=3s">
+         <img src="https://www.linkpicture.com/q/globalyoutubeimg_1.jpg" style="width:100%;">
+      </a>
+</div>iv>
 
 デザインとは、⼈々が物事をより簡単に、快適に使⽤できるようにするために⾏われるプロセ
 スである。そのためにはまず、⼈々が簡単で快適だと感じることが何かと理解するのが必要に
@@ -15,7 +25,7 @@
 ィードバックは、他の⽂化の⼈々がアプリケーションをどのように評価するかについての洞察
 として役⽴ち、彼らの⽂化についての理解をさらに深め、その結果、より多くの共感を得るこ
 とができる。
-https://www.youtube.com/watch?time_continue=3&v=Ubp-9FGpMO8&feature=emb_logo
+
 
 Design is done in order to make the experience of using things easy and pleasant for people. To do
 this, we must first understand what exactly makes a device easy and pleasant to use. To achieve this
